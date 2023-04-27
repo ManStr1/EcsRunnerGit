@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a24432ada9e45468bce2c29923e6ce, type: 3}
+  m_Name: Configuration
+  m_EditorClassIdentifier: 
+  GeneratorChainLength: 5
+  TileView: {fileID: 6444832054273887897, guid: a336fed0111b3494298e5bace34e2191, type: 3}
+  ColumnView: {fileID: 6184579233893295646, guid: 6db1981e886fbad4496b9b050d7cbd87, type: 3}
+  CoinView: {fileID: 7516789478966269307, guid: a5209ba15d57d39409a6fa47552cfc5f, type: 3}
+  Speed: 0.005
+  StaticForcePointX: 30
+  ModelDeletePointX: 50
+  Force: 0.05
+  NumberOfSides: 4
+  deleteTimeRemaining: 3
